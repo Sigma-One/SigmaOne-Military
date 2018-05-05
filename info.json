@@ -1,0 +1,10 @@
+{
+  "name":"SigmaOne_Military",
+  "author":"Sigma1",
+  "version":"1.0.0",
+  "title":"SigmaOne's Mods: Military",
+  "homepage":"",
+  "description":"Extends the game's military part.",
+  "dependencies": ["base"],
+  "factorio_version": "0.16"
+}
