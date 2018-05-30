@@ -7,6 +7,10 @@ require("prototypes.recipes.sniper-rifle")
 require("prototypes.items.coilgun")
 require("prototypes.recipes.coilgun")
 
+require("prototypes.items.tesla-coil")
+require("prototypes.recipes.tesla-coil")
+require("prototypes.entities.tesla-coil")
+
 require("prototypes.items.explosive-rounds-magazine")
 require("prototypes.recipes.explosive-rounds-magazine")
 require("prototypes.items.incendiary-shotgun-shell")

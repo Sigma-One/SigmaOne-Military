@@ -7,3 +7,6 @@ table.insert(data.raw["technology"]["explosives"].effects, {type = "unlock-recip
 
 -- Dragon's Breath with flammables
 data.raw["technology"]["flammables"].effects = {{type = "unlock-recipe", recipe = "incendiary-shotgun-shell"}};
+
+-- Tesla coil with Military 4
+table.insert(data.raw["technology"]["military-4"].effects, {type = "unlock-recipe", recipe = "tesla-coil"});

@@ -17,6 +17,7 @@ for _, f in pairs(game.forces) do
     if f.technologies["military-4"] then
         if f.technologies["military-4"].researched then
             f.recipes["coilgun"].enabled=true
+            f.recipes["tesla-coil"].enabled=true
         end
     end
 end
